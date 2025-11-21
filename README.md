@@ -50,5 +50,6 @@ The project contains the following tables:
 
 ```sql
 CREATE DATABASE social_media;
+```
 
 3. Change CSV's paths to you local machine.
